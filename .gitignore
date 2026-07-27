@@ -1,0 +1,7 @@
+# Ignore configuration file
+config.env
+
+# Ignore images in assets/images except .gitkeep
+assets/images/*.png
+assets/images/*.jpg
+!assets/images/.gitkeep
